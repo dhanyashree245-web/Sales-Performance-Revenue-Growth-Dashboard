@@ -13,4 +13,4 @@ Used to create measures and calculate business performance indicators, including
 Used as the data source for sales performance analysis.
 
 ## GitHub
-Planned platform for publishing the project, documentation, screenshots, and Power BI report file.
+platform used for publishing the project, documentation, screenshots, and Power BI report file.
