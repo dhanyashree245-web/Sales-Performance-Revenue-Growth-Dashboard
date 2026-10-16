@@ -55,3 +55,21 @@ This project is intended for educational and portfolio purposes. It is not a sub
 
 ## Author
 Created as a data analytics portfolio project using Microsoft Power BI.
+## Dashboard Preview
+
+### Sales Performance Dashboard
+
+![Sales Performance Dashboard](sales_dashboard.png)
+
+### Product Analysis Dashboard
+
+![Product Analysis Dashboard](product_analysis.png)
+
+## Project Documentation
+
+- [Project Summary](project_summary.md)
+- [Tools Used](tools_used.md)
+
+## Power BI Report
+
+Download `Sales_Performance_Revenue_Growth_Dashboard.pbix` from this repository and open it using Microsoft Power BI Desktop.
